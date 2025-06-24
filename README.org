@@ -1,0 +1,9 @@
+* cl-sf3
+
+Common Lisp library implementation of the SF3 file formats.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-sf3.git |
+| commit  | 0f655b7                                     |
+| systems | cl-sf3                                      |
+|---------+---------------------------------------------|
