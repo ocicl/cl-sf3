@@ -4,7 +4,7 @@ Common Lisp library implementation of the SF3 file formats.
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/cl-sf3.git |
-| commit  | 10f2256                                      |
+| commit  | 17c26fb                                      |
 | systems | cl-sf3                                       |
 |---------+----------------------------------------------|
   
